@@ -1,0 +1,24 @@
+.gridPane {
+    -fx-background-color: rgb(15, 15, 15); 
+}
+
+.lblMot {
+    -fx-text-fill: white;
+    -fx-font-size: 300%;
+}
+
+.lblVies {
+    -fx-text-fill: white;
+    -fx-font-size: 150%;
+    -fx-text-alignment: center;
+}
+
+.lblTab {
+    -fx-text-fill: white;
+    -fx-font-size: 150%;
+}
+
+.lblErrs {
+    -fx-text-fill: white;
+    -fx-font-size: 150%;
+}
